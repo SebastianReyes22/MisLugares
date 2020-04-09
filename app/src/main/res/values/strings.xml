@@ -1,0 +1,31 @@
+<resources>
+
+    <!--
+    <string name="app_name">Mis Lugares</string>
+    -->
+
+    <string name="app_name">Reyes Miramontes Noé Sebastián</string>
+    <string name="action_settings">Configuración</string>
+    <string name="showPlaces">MOSTRAR LUGARES</string>
+    <string name="preferences">PREFERENCIAS</string>
+    <string name="about">ACERCA DE</string>
+    <string name="exit">SALIR</string>
+    <string name="name">Nombre:</string>
+    <string name="algoLugar">algo que identifique el lugar</string>
+    <string name="type">Tipo:</string>
+    <string name="address">Dirección:</string>
+    <string name="lugar">direccion del lugar</string>
+    <string name="tel">Telefono:</string>
+    <string name="telEdit">teléfono para contactar</string>
+    <string name="url">Url:</string>
+    <string name="pagina">página web</string>
+    <string name="coment">Comentario:</string>
+    <string name="notas">introduce tus notas</string>
+    <string name="acercaDe">Acerca de...</string>
+    <string name="contenedorNombre">Nombres del lugar</string>
+    <string name="logoLugar">logo del tipo</string>
+    <string name="tipoLugar">Tipo del lugar</string>
+    <string name="contenedorDireccion">Dirección del lugar</string>
+    <string name="contenedorTel">Telefono</string>
+    <string name="contenedorUrl">Url del lugar</string>
+</resources>
